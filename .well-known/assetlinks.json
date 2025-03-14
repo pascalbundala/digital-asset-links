@@ -1,0 +1,11 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.estate.package",
+      "sha256_cert_fingerprints": ["SHA1: 2C:BF:A6:16:BE:AE:F5:E8:BD:2D:DB:2C:05:41:6C:85:F7:D0:31:04
+         SHA256: 78:78:31:76:B1:65:EE:71:A2:86:A8:3B:8B:0B:B1:EA:46:7D:96:BC:7F:AF:6C:C7:8B:5F:86:5F:A5:5D:A4:E2"] 
+    }
+  }
+]
